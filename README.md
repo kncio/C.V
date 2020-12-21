@@ -1,2 +1,137 @@
 # C.V
 Curriculum Vitae
+
+## _Lic. Ciencias de la Computación, Facultad de Mátemática y Computación de la Universidad de la Habana_ 
+
+## **David Cancio Milián**
+
+email: davidcancio9609@gmail.com
+
+teléfono: +5358379145
+
+telegram: @kncio
+
+Desde los estudios preuniversitarios en el IPVCE Vladimir Ilich Lenin se vio interesado por el mundo de la programación y comenzó
+a concursar en las competencias clasificatorias de la IoI para lo cual recibió preparación en el centro de estudios computacionales Tomás López Jimenez de la Univesidad de Ciencias Informáticas. Una vez egresado del preuniversitario continuó la vida de corcursante en las competencias de la **ACM-ICPC** donde obtuvo resultados relevantes en la Copa UH (Equipo NullReference).
+
+## **Formación Profesional**:
+
+-Programación
+
+-Estructura de Datos y Algoritmos
+
+-Base de Datos
+
+-Diseño y Análisis de Algoritmos
+
+-Arquitectura de Computadoras
+
+-Sistemas Operativos
+
+-Ingeniería de Software
+
+-Compilación
+
+-Sistemas Distribuidos 
+
+-Programación Funcional
+
+-Redes de Computadoras 
+
+-Lenguajes de Programación
+
+-Inteligencia artificial
+
+-Sistemas de Información
+
+## **Formación Complementaria**:
+
+-Criptografía
+
+-Blockchain
+
+-Gráficos por Computadoras
+
+-Hacking ético
+
+## **Dominio de lenguajes de programación**:
+
+-C# como lenguaje padre
+
+-Python
+
+-C, Cpp
+
+-Javascript, HTML, Prolog, Haskell, Ensamblador, Kotlin, Java, Latex, Bash
+
+
+## **Tecnologías**:
+
+git, Unity, Docker, Heroku, AndroidStudio/Kotlin, Dominio Sistemas Operativos Unix, Visual Studio, Photon CLoud para el desarrollo de Multijugador con Unity,
+TelegramApi, RabbitMQ, Kafka, Flutter
+
+Dominio basico de metódologias ágiles de producción 
+
+## **Experiencia**:
+
+Tesis de licenciatura
+    
+    Sistema de expertos para el análisis del conjunto de reglas de un Cortafuegos basado en IPTABLES de Linux
+
+
+Desarrollador
+    
+    Implementación de un Crawler para recopilar contenido específico en la web. Python
+
+Desarrollador 
+    
+    Desarrollo de un prototipo de Videojuego como resultado de un StartUpWeek en la Universidad de la Habana. C#-Unity
+
+Desarrollador
+
+    Sistema de clasificación de cadenas moleculares para la clasificación de aminoácidos y reconocimiento de patrones protéicos.
+    Trabajo realizado en practicas laborales. Python
+
+Desarrollador
+
+    Implementación de una Plataforma de mensajería instantánea p2p basada en un sistema Sistema Distribuido. Python
+
+Desarrollador
+    
+    Implementación de un sistema de control de acceso de trabajadores basado en una plataforma Web. MVC.NET-C#-Javascript-Bootstrap
+
+Desarrollador 
+    
+    Implementación de un Videojuego en lenguaje ensamblador. Ensamblador-Arquitertura8086-Unix  
+
+Desarrollador
+    
+    Desarrollo en equipo de un clasificador de géneros de películas, basado en una red neuronal construida con Keras. Python, IA
+
+Desarrollador
+
+    Python Script para evitar la desconexión de una cuenta activa de Etecsa después de las 5 horas continuas de uso, así como el manejo de la cuenta. 
+
+Desarrollador
+
+    Aplicación CDigital en Flutter con el equipo DreamSolutions, una aplicación que describe un flujo empresarial sobre documentos legislativos y consume una WebApi implementada en Laravel.
+
+Aptitud ante nuevas tecnologías.
+
+    Durante la preparación profesional se aseguró la capacidad de adaptarse rapidamente a nuevos Frameworks de trabajo y el dominio intermedio de cualquier lenguaje de programación en espacios de tiempo cortos.
+
+
+Hobbies
+Programación de Videojuegos, Cine, Libros
+
+Lenguajes:
+Español e Inglés
+
+
+
+
+
+
+
+
+
