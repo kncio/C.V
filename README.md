@@ -1,5 +1,9 @@
-# C.V
-Curriculum Vitae
+
+# English Version
+
+
+
+# Versión en Españól
 
 ## _Lic. Ciencias de la Computación, Facultad de Mátemática y Computación de la Universidad de la Habana_ 
 
@@ -10,6 +14,8 @@ email: davidcancio9609@gmail.com
 teléfono: +5358379145
 
 telegram: @kncio
+
+linkedin: David Cancio
 
 Desde los estudios preuniversitarios en el IPVCE Vladimir Ilich Lenin se vio interesado por el mundo de la programación y comenzó
 a concursar en las competencias clasificatorias de la IoI para lo cual recibió preparación en el centro de estudios computacionales Tomás López Jimenez de la Univesidad de Ciencias Informáticas. Una vez egresado del preuniversitario continuó la vida de corcursante en las competencias de la **ACM-ICPC** donde obtuvo resultados relevantes en la Copa UH (Equipo NullReference).
@@ -115,6 +121,20 @@ Desarrollador
 Desarrollador
 
     Aplicación CDigital en Flutter con el equipo DreamSolutions, una aplicación que describe un flujo empresarial sobre documentos legislativos y consume una WebApi implementada en Laravel.
+
+## Experiencia con Flutter:
+
+    * Desarrollo:
+
+    Aplicacion Cdigital Repositorio en Dreamsolution. Aplicación que consume servicios de una WebApi, registro de usuarios, sistema de archivos, visualización de documentos, lógica de la Institución.
+
+    * Desarrollo:
+
+    Aplicación comercio electrónico PLuis con HighVista. Consumo de WebApi.
+
+    * Desarrollo:
+
+    NES+ Aplicación de Intercambio Social para la comunidad espñola de personas que padecen VIH. 
 
 Aptitud ante nuevas tecnologías.
 
